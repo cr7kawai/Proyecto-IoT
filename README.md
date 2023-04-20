@@ -19,7 +19,6 @@ El objetivo general de este proyecto es construir un bastón inteligente el cual
 ## Tabla de Software Utilizado
 | Id | Software | Versión | Tipo |
 |----|----------|---------|------|
-| 01 |Visual Studio Code|1.74|Entorno de Desarrollo Integrado|
 | 02 |Arduino IDE|2.0|Entorno de Desarrollo Integrado|
 | 03 |ESP32|1.1.0|Librería|
 | 04 |Phyton|3.10|Lenguaje de Programación|
